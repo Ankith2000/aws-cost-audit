@@ -1,1 +1,1 @@
-#Cost Optimization Scripts for EC2, S3, LB, Lambda and other AWS services using CLI and Bash.
+#Cost Optimization Strategies for EC2, S3, LB, RDS and other AWS services using CLI and Bash.
